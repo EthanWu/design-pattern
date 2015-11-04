@@ -13,5 +13,4 @@ public class RemoteController {
 	public void buttonUnpressed(){
 		this.command.undo();
 	}
-	
 }
